@@ -1,5 +1,9 @@
+### ¡Hola!  
+Soy Oralia 👩🏻‍💻 y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para la empresa.  
+  
+<br/>  
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oralia-rivera-vicente) 
 
 # 💻 Tech Stack:
