@@ -1,15 +1,10 @@
-### ¡Hola!  
-<h2>Soy Oralia 👩🏻‍💻 y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para la empresa.</h2>
+## ¡Hola, soy Oralia 👩🏻‍💻 !  
+<p>Y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para la empresa.</p>
   
 <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-  
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -24,7 +19,7 @@
 </td><td valign="top" width="33%">
 
 
-## Css 
+### Css 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -36,7 +31,7 @@
 
 
 
-## Tools 
+### Tools 
 <div align="center">  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
