@@ -1,7 +1,5 @@
 ## ¡Hola, soy Oralia 👩🏻‍💻 !  
 <p>Y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para la empresa.</p>
-  
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
