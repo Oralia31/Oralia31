@@ -1,5 +1,5 @@
 ## ¡Bienvenid@ a mi GitHub, soy Oralia 👩🏻‍💻!  
-<p>Y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para la empresa.</p>
+<p>Y llevo 2 años y medio dedicada al desarrollo frontend, creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para cualquier proyecto.</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -48,14 +48,13 @@
 <br/>  
 
 
-## 📊 GitHub Stats:
-<div align="center">  
+## 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=Oralia31&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oralia31&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oralia31&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Oralia31&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
