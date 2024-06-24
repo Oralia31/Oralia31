@@ -35,7 +35,6 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" height="50" /></a>  
 </div>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Postman" height="50" /></a>  
 </div>
 
 </td></tr></table>  
