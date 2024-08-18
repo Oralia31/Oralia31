@@ -1,10 +1,28 @@
-## ¡Bienvenid@ a mi GitHub, soy Frontend Developer 👩🏻‍💻!  
+<div  align="center">
+
+# ¡Hola!&#128075;, soy Oralia Rivera
+
+</div>
+
+
+<div  align="center">
+<p>
+<strong>¡Bienvenido a mi GitHub, soy Frontend Developer 👩🏻‍💻!</strong><br>
+
+[![](https://visitcount.itsvg.in/api?id=Oralia31&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</p>
+
+</div>
+
 <p>Y llevo aproximadamente 3 años creando interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como HTML, CSS, JavaScript, TypeScript y frameworks como VueJS, ReactJS, NextJS. Me entusiasma seguir aprendiendo en este campo en constante evolución. Soy creativa, colaborativa y disfruto trabajar en equipo, aportando ideas innovadoras para el éxito de los proyectos. Estoy segura de que mi experiencia y habilidades serán valiosas para cualquier proyecto.</p>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a> 
@@ -16,8 +34,8 @@
 
 </td><td valign="top" width="33%">
 
+### Css
 
-### Css 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -27,7 +45,8 @@
 
 </td><td valign="top" width="33%">
 
-### Tools 
+### Tools
+
 <div align="center">  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -37,9 +56,10 @@
 </div>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-## 🌐 Connect with me  
+## 🌐 Connect with me
+
 <a href="https://github.com//Oralia31" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -47,16 +67,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-<br/>  
+<br/>
 
+## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=Oralia31&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oralia31&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oralia31&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oralia31&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
